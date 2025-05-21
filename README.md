@@ -9,15 +9,17 @@
 To develop the Hospital Management System using Star UML.
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.Patients face difficulties in booking appointments, accessing their medical reports, and receiving timely notifications for tests or follow-ups.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.Hospital staff and doctors require a centralized platform to manage patient information, schedule consultations, prescribe medications, and track treatments efficiently.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.The system should integrate pharmacy management, billing, staff management, and inventory control to improve overall hospital workflow and resource utilization.
+
+6.It must ensure secure, role-based access for doctors, nurses, administrative staff, and patients, while maintaining data confidentiality and complying with healthcare regulations.
 
 UML DIAGRAMS
 
